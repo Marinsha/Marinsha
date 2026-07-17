@@ -9,6 +9,6 @@
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,figma,html,ai,java,js,mysql,ps,php" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,figma,html,ai,java,js,mysql,ps,php,n8n,shopify" />
   </a>
 </p>
