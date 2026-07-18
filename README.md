@@ -1,10 +1,5 @@
 # Hey 👋 It's Marinsha Jude
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Marinsha/Marinsha/main/Hello-World-Banner.jpg" alt="Marinsha Banner" width="100%">
-</p>
-
 ## 👩‍💻 About Me...
 I'm from **Sri Lanka**...
 - 🔭 I'm an Undergraduate Computer Science Student.
