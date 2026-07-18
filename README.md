@@ -1,19 +1,29 @@
-# Hi, I'm Marinsha Jude 👋
-### Full Stack Developer
+# Hey 👋 It's Marinsha Jude
 
-- 🎓 Computer Science (UG) at Eastern University of Sri Lanka
-- ✉️ Connect with me: marinsha08@gmail.com
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Marinsha/Marinsha/main/Hello-World-Banner.jpg" alt="Marinsha Banner" width="100%">
+</p>
 
----
+## 👩‍💻 About Me...
+I'm from **Sri Lanka**...
+- 🔭 I'm an Undergraduate Computer Science Student.
+- 📚 I'm currently learning Automation, Full Stack, and Mobile app Development.
+- ⚡ In my free time i work on turning my ideas into reality.
 
-### Languages and Tools:
+## 🔗 Connect with me....
 <p align="left">
-  <!-- Skill Icons including React and MongoDB -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,figma,html,ai,java,js,mysql,ps,php,react,mongodb,shopify" />
-  </a>
-  <!-- Custom Badge for n8n -->
-  <a href="https://n8n.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="48" style="vertical-align:top; margin-left: 4px;" />
-  </a>
+  <a href="www.linkedin.com/in/marinsha-jude-8693632aa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:marinsha08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+## 🛠️ Language & Tools...
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,html,css,js,ts,python,java,nodejs,react,nextjs,mongodb,firebase,postgres,figma,canva,n8n,notion" />
+</p>
+
+## 🔥 My Stats...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marinsha&show_icons=true&theme=tokyonight&count_private=true" alt="Marinsha GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marinsha&theme=tokyonight" alt="Marinsha GitHub Streak" width="48%" />
 </p>
